@@ -1,0 +1,587 @@
+{
+  "note": "Fictional demo identities. Contacts and registration numbers are non-operational placeholders. Existing districts and metrics are retained.",
+  "trainees": [
+    {
+      "id": "SKILL-2026-1001",
+      "old_name": "Radhika Goud",
+      "name": "Ananya Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1002",
+      "old_name": "Santosh Reddy",
+      "name": "Aarav Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1003",
+      "old_name": "Vijay Reddy",
+      "name": "Atharva Joshi"
+    },
+    {
+      "id": "SKILL-2026-1004",
+      "old_name": "Praveen Patel",
+      "name": "Aditya Shinde"
+    },
+    {
+      "id": "SKILL-2026-1005",
+      "old_name": "Chaitanya Das",
+      "name": "Omkar Apte"
+    },
+    {
+      "id": "SKILL-2026-1006",
+      "old_name": "Venkatesh Murthy",
+      "name": "Soham Kale"
+    },
+    {
+      "id": "SKILL-2026-1007",
+      "old_name": "Chaitanya Singh",
+      "name": "Vedant Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1008",
+      "old_name": "Lavanya Chowdary",
+      "name": "Aditi Joshi"
+    },
+    {
+      "id": "SKILL-2026-1009",
+      "old_name": "Pavani Patel",
+      "name": "Anushka Shinde"
+    },
+    {
+      "id": "SKILL-2026-1010",
+      "old_name": "Swapna Goud",
+      "name": "Gauri Apte"
+    },
+    {
+      "id": "SKILL-2026-1011",
+      "old_name": "Ravi Menon",
+      "name": "Sarthak Joshi"
+    },
+    {
+      "id": "SKILL-2026-1012",
+      "old_name": "Bhavani Gupta",
+      "name": "Isha Kale"
+    },
+    {
+      "id": "SKILL-2026-1013",
+      "old_name": "Ravi Menon",
+      "name": "Pranav Shinde"
+    },
+    {
+      "id": "SKILL-2026-1014",
+      "old_name": "Praveen Raju",
+      "name": "Rohan Apte"
+    },
+    {
+      "id": "SKILL-2026-1015",
+      "old_name": "Anil Patel",
+      "name": "Yash Kale"
+    },
+    {
+      "id": "SKILL-2026-1016",
+      "old_name": "Kiran Murthy",
+      "name": "Sanket Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1017",
+      "old_name": "Venkatesh Goud",
+      "name": "Nikhil Joshi"
+    },
+    {
+      "id": "SKILL-2026-1018",
+      "old_name": "Santosh Menon",
+      "name": "Akshay Shinde"
+    },
+    {
+      "id": "SKILL-2026-1019",
+      "old_name": "Swapna Kumar",
+      "name": "Madhura Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1020",
+      "old_name": "Mounika Varma",
+      "name": "Mrunmayi Joshi"
+    },
+    {
+      "id": "SKILL-2026-1021",
+      "old_name": "Sai Prasad",
+      "name": "Amey Apte"
+    },
+    {
+      "id": "SKILL-2026-1022",
+      "old_name": "Chaitanya Yadav",
+      "name": "Chinmay Kale"
+    },
+    {
+      "id": "SKILL-2026-1023",
+      "old_name": "Ajay Singh",
+      "name": "Mihir Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1024",
+      "old_name": "Pavani Naidu",
+      "name": "Prajakta Shinde"
+    },
+    {
+      "id": "SKILL-2026-1025",
+      "old_name": "Manoj Kumar",
+      "name": "Shreyas Joshi"
+    },
+    {
+      "id": "SKILL-2026-1026",
+      "old_name": "Anil Thakur",
+      "name": "Tanmay Shinde"
+    },
+    {
+      "id": "SKILL-2026-1027",
+      "old_name": "Chaitanya Chowdary",
+      "name": "Harsh Apte"
+    },
+    {
+      "id": "SKILL-2026-1028",
+      "old_name": "Manoj Sharma",
+      "name": "Kunal Kale"
+    },
+    {
+      "id": "SKILL-2026-1029",
+      "old_name": "Ajay Prasad",
+      "name": "Aarav Patil"
+    },
+    {
+      "id": "SKILL-2026-1030",
+      "old_name": "Ajay Murthy",
+      "name": "Atharva Pawar"
+    },
+    {
+      "id": "SKILL-2026-1031",
+      "old_name": "Mounika Rathod",
+      "name": "Rutuja Apte"
+    },
+    {
+      "id": "SKILL-2026-1032",
+      "old_name": "Anil Das",
+      "name": "Aditya More"
+    },
+    {
+      "id": "SKILL-2026-1033",
+      "old_name": "Swathi Sharma",
+      "name": "Sakshi Kale"
+    },
+    {
+      "id": "SKILL-2026-1034",
+      "old_name": "Anusha Patel",
+      "name": "Sanika Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1035",
+      "old_name": "Manoj Patel",
+      "name": "Omkar Sawant"
+    },
+    {
+      "id": "SKILL-2026-1036",
+      "old_name": "Gita Rao",
+      "name": "Sayali Joshi"
+    },
+    {
+      "id": "SKILL-2026-1037",
+      "old_name": "Keerthi Naidu",
+      "name": "Shreya Shinde"
+    },
+    {
+      "id": "SKILL-2026-1038",
+      "old_name": "Sravani Reddy",
+      "name": "Shruti Apte"
+    },
+    {
+      "id": "SKILL-2026-1039",
+      "old_name": "Mounika Varma",
+      "name": "Tejaswini Kale"
+    },
+    {
+      "id": "SKILL-2026-1040",
+      "old_name": "Sunitha Singh",
+      "name": "Vaishnavi Deshmukh"
+    },
+    {
+      "id": "SKILL-2026-1041",
+      "old_name": "Swathi Goud",
+      "name": "Vedika Joshi"
+    },
+    {
+      "id": "SKILL-2026-1042",
+      "old_name": "Rahul Rao",
+      "name": "Soham Kamat"
+    },
+    {
+      "id": "SKILL-2026-1043",
+      "old_name": "Praveen Raju",
+      "name": "Vedant Patil"
+    },
+    {
+      "id": "SKILL-2026-1044",
+      "old_name": "Kiran Raju",
+      "name": "Sarthak Pawar"
+    },
+    {
+      "id": "SKILL-2026-1045",
+      "old_name": "Haritha Kumar",
+      "name": "Manasi Shinde"
+    },
+    {
+      "id": "SKILL-2026-1046",
+      "old_name": "Radhika Raju",
+      "name": "Mukta Apte"
+    },
+    {
+      "id": "SKILL-2026-1047",
+      "old_name": "Sravani Singh",
+      "name": "Sneha Kale"
+    },
+    {
+      "id": "SKILL-2026-1048",
+      "old_name": "Srikanth Sharma",
+      "name": "Pranav More"
+    },
+    {
+      "id": "SKILL-2026-1049",
+      "old_name": "Deepika Naidu",
+      "name": "Ananya Patil"
+    },
+    {
+      "id": "SKILL-2026-1050",
+      "old_name": "Lavanya Das",
+      "name": "Aditi Pawar"
+    },
+    {
+      "id": "SKILL-2026-1051",
+      "old_name": "Manoj Varma",
+      "name": "Rohan Sawant"
+    },
+    {
+      "id": "SKILL-2026-1052",
+      "old_name": "Karthik Goud",
+      "name": "Yash Kamat"
+    },
+    {
+      "id": "SKILL-2026-1053",
+      "old_name": "Swathi Goud",
+      "name": "Anushka More"
+    },
+    {
+      "id": "SKILL-2026-1054",
+      "old_name": "Bhavani Patel",
+      "name": "Gauri Sawant"
+    },
+    {
+      "id": "SKILL-2026-1055",
+      "old_name": "Sandhya Yadav",
+      "name": "Isha Kamat"
+    },
+    {
+      "id": "SKILL-2026-1056",
+      "old_name": "Suresh Rathod",
+      "name": "Sanket Patil"
+    },
+    {
+      "id": "SKILL-2026-1057",
+      "old_name": "Rahul Thakur",
+      "name": "Nikhil Pawar"
+    },
+    {
+      "id": "SKILL-2026-1058",
+      "old_name": "Srikanth Sharma",
+      "name": "Akshay More"
+    },
+    {
+      "id": "SKILL-2026-1059",
+      "old_name": "Anusha Chowdary",
+      "name": "Madhura Patil"
+    },
+    {
+      "id": "SKILL-2026-1060",
+      "old_name": "Sandhya Rathod",
+      "name": "Mrunmayi Pawar"
+    },
+    {
+      "id": "SKILL-2026-1061",
+      "old_name": "Mahesh Rao",
+      "name": "Amey Sawant"
+    },
+    {
+      "id": "SKILL-2026-1062",
+      "old_name": "Sunitha Babu",
+      "name": "Prajakta More"
+    },
+    {
+      "id": "SKILL-2026-1063",
+      "old_name": "Prasad Prasad",
+      "name": "Chinmay Kamat"
+    },
+    {
+      "id": "SKILL-2026-1064",
+      "old_name": "Ravi Raju",
+      "name": "Mihir Patil"
+    },
+    {
+      "id": "SKILL-2026-1065",
+      "old_name": "Sirisha Patel",
+      "name": "Rutuja Sawant"
+    },
+    {
+      "id": "SKILL-2026-1066",
+      "old_name": "Gita Yadav",
+      "name": "Sakshi Kamat"
+    },
+    {
+      "id": "SKILL-2026-1067",
+      "old_name": "Srikanth Babu",
+      "name": "Shreyas Pawar"
+    },
+    {
+      "id": "SKILL-2026-1068",
+      "old_name": "Sirisha Murthy",
+      "name": "Sanika Patil"
+    },
+    {
+      "id": "SKILL-2026-1069",
+      "old_name": "Gita Singh",
+      "name": "Sayali Pawar"
+    },
+    {
+      "id": "SKILL-2026-1070",
+      "old_name": "Suresh Menon",
+      "name": "Tanmay More"
+    },
+    {
+      "id": "SKILL-2026-1071",
+      "old_name": "Karthik Rathod",
+      "name": "Harsh Sawant"
+    },
+    {
+      "id": "SKILL-2026-1072",
+      "old_name": "Ajay Rao",
+      "name": "Kunal Kamat"
+    },
+    {
+      "id": "SKILL-2026-1073",
+      "old_name": "Ajay Kumar",
+      "name": "Aarav Kulkarni"
+    },
+    {
+      "id": "SKILL-2026-1074",
+      "old_name": "Anil Rao",
+      "name": "Atharva Jadhav"
+    },
+    {
+      "id": "SKILL-2026-1075",
+      "old_name": "Sai Naidu",
+      "name": "Aditya Gokhale"
+    },
+    {
+      "id": "SKILL-2026-1076",
+      "old_name": "Sandhya Reddy",
+      "name": "Shreya More"
+    },
+    {
+      "id": "SKILL-2026-1077",
+      "old_name": "Radhika Yadav",
+      "name": "Shruti Sawant"
+    },
+    {
+      "id": "SKILL-2026-1078",
+      "old_name": "Pavani Rathod",
+      "name": "Tejaswini Kamat"
+    },
+    {
+      "id": "SKILL-2026-1079",
+      "old_name": "Chaitanya Rathod",
+      "name": "Omkar Bhosale"
+    },
+    {
+      "id": "SKILL-2026-1080",
+      "old_name": "Ajay Rao",
+      "name": "Soham Gaikwad"
+    },
+    {
+      "id": "SKILL-2026-1081",
+      "old_name": "Santosh Raju",
+      "name": "Vedant Kulkarni"
+    },
+    {
+      "id": "SKILL-2026-1082",
+      "old_name": "Deepika Rao",
+      "name": "Vaishnavi Patil"
+    },
+    {
+      "id": "SKILL-2026-1083",
+      "old_name": "Ravi Singh",
+      "name": "Sarthak Jadhav"
+    },
+    {
+      "id": "SKILL-2026-1084",
+      "old_name": "Bhavani Yadav",
+      "name": "Vedika Pawar"
+    },
+    {
+      "id": "SKILL-2026-1085",
+      "old_name": "Mounika Gupta",
+      "name": "Manasi More"
+    },
+    {
+      "id": "SKILL-2026-1086",
+      "old_name": "Suresh Reddy",
+      "name": "Pranav Gokhale"
+    },
+    {
+      "id": "SKILL-2026-1087",
+      "old_name": "Venkatesh Rao",
+      "name": "Rohan Bhosale"
+    },
+    {
+      "id": "SKILL-2026-1088",
+      "old_name": "Santosh Patel",
+      "name": "Yash Gaikwad"
+    },
+    {
+      "id": "SKILL-2026-1089",
+      "old_name": "Sravani Babu",
+      "name": "Mukta Sawant"
+    },
+    {
+      "id": "SKILL-2026-1090",
+      "old_name": "Swathi Babu",
+      "name": "Sneha Kamat"
+    },
+    {
+      "id": "SKILL-2026-1091",
+      "old_name": "Karthik Menon",
+      "name": "Sanket Kulkarni"
+    },
+    {
+      "id": "SKILL-2026-1092",
+      "old_name": "Mahesh Varma",
+      "name": "Nikhil Jadhav"
+    },
+    {
+      "id": "SKILL-2026-1093",
+      "old_name": "Lavanya Rathod",
+      "name": "Ananya Kulkarni"
+    },
+    {
+      "id": "SKILL-2026-1094",
+      "old_name": "Suresh Patel",
+      "name": "Akshay Gokhale"
+    },
+    {
+      "id": "SKILL-2026-1095",
+      "old_name": "Venkatesh Raju",
+      "name": "Amey Bhosale"
+    },
+    {
+      "id": "SKILL-2026-1096",
+      "old_name": "Venkatesh Varma",
+      "name": "Chinmay Gaikwad"
+    },
+    {
+      "id": "SKILL-2026-1097",
+      "old_name": "Vijay Goud",
+      "name": "Mihir Kulkarni"
+    },
+    {
+      "id": "SKILL-2026-1098",
+      "old_name": "Sandhya Gupta",
+      "name": "Aditi Jadhav"
+    },
+    {
+      "id": "SKILL-2026-1099",
+      "old_name": "Pavani Naidu",
+      "name": "Anushka Gokhale"
+    },
+    {
+      "id": "SKILL-2026-1100",
+      "old_name": "Sravani Raju",
+      "name": "Gauri Bhosale"
+    }
+  ],
+  "employers": [
+    {
+      "id": 1,
+      "old_name": "Larsen & Toubro Ltd (L&T)",
+      "company_name": "Sahyadri Buildworks Pvt Ltd",
+      "contact_person": "Sanket Deshpande",
+      "contact_email": "careers@sahyadri-buildworks.example",
+      "contact_phone": "DEMO-000-001",
+      "gst_number": "DEMO-GST-001",
+      "udyam_number": "DEMO-UDYAM-001"
+    },
+    {
+      "id": 2,
+      "old_name": "Schneider Electric India",
+      "company_name": "Pragati Electrical Systems Pvt Ltd",
+      "contact_person": "Sayali Kulkarni",
+      "contact_email": "careers@pragati-electrical.example",
+      "contact_phone": "DEMO-000-002",
+      "gst_number": "DEMO-GST-002",
+      "udyam_number": "DEMO-UDYAM-002"
+    },
+    {
+      "id": 3,
+      "old_name": "Apollo Hospitals Enterprise",
+      "company_name": "Jeevansparsh Care Services Pvt Ltd",
+      "contact_person": "Madhura Joshi",
+      "contact_email": "careers@jeevansparsh-care.example",
+      "contact_phone": "DEMO-000-003",
+      "gst_number": "DEMO-GST-003",
+      "udyam_number": "DEMO-UDYAM-003"
+    },
+    {
+      "id": 4,
+      "old_name": "Reliance Retail Ltd (Smart Bazaar)",
+      "company_name": "Sahyog Retail Network Pvt Ltd",
+      "contact_person": "Rohan Patil",
+      "contact_email": "careers@sahyog-retail.example",
+      "contact_phone": "DEMO-000-004",
+      "gst_number": "DEMO-GST-004",
+      "udyam_number": "DEMO-UDYAM-004"
+    },
+    {
+      "id": 5,
+      "old_name": "Tata Business Support Services",
+      "company_name": "DnyanSetu Business Services Pvt Ltd",
+      "contact_person": "Prajakta Deshmukh",
+      "contact_email": "careers@dnyansetu-services.example",
+      "contact_phone": "DEMO-000-005",
+      "gst_number": "DEMO-GST-005",
+      "udyam_number": "DEMO-UDYAM-005"
+    },
+    {
+      "id": 6,
+      "old_name": "MedPlus Health Services",
+      "company_name": "Aroha Wellness Supplies Pvt Ltd",
+      "contact_person": "Omkar Gokhale",
+      "contact_email": "careers@aroha-wellness.example",
+      "contact_phone": "DEMO-000-006",
+      "gst_number": "DEMO-GST-006",
+      "udyam_number": "DEMO-UDYAM-006"
+    },
+    {
+      "id": 7,
+      "old_name": "Amararaja Batteries Ltd",
+      "company_name": "Deccan Precision Components Pvt Ltd",
+      "contact_person": "Amey Jadhav",
+      "contact_email": "careers@deccan-precision.example",
+      "contact_phone": "DEMO-000-007",
+      "gst_number": "DEMO-GST-007",
+      "udyam_number": "DEMO-UDYAM-007"
+    },
+    {
+      "id": 8,
+      "old_name": "DMart (Avenue Supermarts)",
+      "company_name": "Navdisha Supply Chain Pvt Ltd",
+      "contact_person": "Manasi Apte",
+      "contact_email": "careers@navdisha-supply.example",
+      "contact_phone": "DEMO-000-008",
+      "gst_number": "DEMO-GST-008",
+      "udyam_number": "DEMO-UDYAM-008"
+    }
+  ]
+}

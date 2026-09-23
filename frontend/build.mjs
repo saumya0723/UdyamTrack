@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {execFileSync} from 'node:child_process';
+import {transform} from 'esbuild';
+const root=path.dirname(fileURLToPath(import.meta.url));
+const source=fs.readFileSync(path.join(root,'views.jsx'),'utf8')+'\n'+fs.readFileSync(path.join(root,'portal.jsx'),'utf8');
+const result=await transform(source,{loader:'jsx',target:'es2020',jsxFactory:'React.createElement',jsxFragment:'React.Fragment',minify:false});
+fs.writeFileSync(path.join(root,'app.js'),result.code);
+execFileSync(process.execPath,[path.join(root,'node_modules/tailwindcss/lib/cli.js'),'-c',path.join(root,'tailwind.config.cjs'),'-i',path.join(root,'utilities.input.css'),'-o',path.join(root,'styles.css'),'--minify'],{stdio:'inherit'});
+console.log('Frontend rebuilt. Restart or refresh your existing FastAPI portal.');

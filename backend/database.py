@@ -1,0 +1,22 @@
+from sqlalchemy import create_engine
+from sqlalchemy.orm import declarative_base, sessionmaker, Session
+
+DATABASE_URL = "sqlite:///./skilltrack.db"
+
+# connect_args={"check_same_thread": False} is required for SQLite in FastAPI
+engine = create_engine(
+    DATABASE_URL,
+    connect_args={"check_same_thread": False}
+)
+
+SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
+Base = declarative_base()
+
+def get_db():
+    """FastAPI dependency for yielding database session."""
+    db: Session = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
