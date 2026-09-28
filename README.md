@@ -8,7 +8,7 @@
 
 Training → Employment → Retention → Wage Progression
 
-**Presented by Team Manthan**
+**Presented by Team Manthan EK SOACH**
 
 [Overview](#overview) · [Platform](#platform-capabilities) · [Architecture](#system-architecture) · [Setup](#local-setup) · [Documentation](#api-documentation)
 
@@ -208,7 +208,7 @@ The supplied frontend build was checked against a local backend using an isolate
 
 ## Credits
 
-**Team Manthan** — उद्यम Track project presentation.
+**Team Manthan EK SOACH** — उद्यम Track project presentation.
 
 Project branding, skilling illustrations and the team logo were supplied as project assets. The Maharashtra outline was derived from the Maharashtra feature in the [GeoHacker India state dataset](https://github.com/geohacker/india/blob/master/state/india_state.geojson); consult the upstream repository for provenance and terms.
 
